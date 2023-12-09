@@ -1,3 +1,10 @@
+# Trabalho de ESI
+
+Testes de integração usando Cucumber
+
+* Os testes se encontrão na pasta **features**
+
+
 # pauliceia front-end
 
 Pauliceia 2.0 project front-end.
