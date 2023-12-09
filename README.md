@@ -4,7 +4,7 @@ Testes de integração usando Cucumber
 
 * Os testes se encontrão na pasta **features**
 
-![Imagem][https://github.com/Wesley-scarneiro/esi-group8-pauliceia/blob/master/cucumber-tests.png?raw=true]
+![Imagem](https://github.com/Wesley-scarneiro/esi-group8-pauliceia/blob/master/cucumber-tests.png?raw=true)
 
 # pauliceia front-end
 
@@ -52,3 +52,6 @@ Or build for production and view the bundle analyzer report
 ```
 $ npm run build --report
 ```
+
+
+[def]: https://github.com/Wesley-scarneiro/esi-group8-pauliceia/blob/master/cucumber-tests.png?raw=true
