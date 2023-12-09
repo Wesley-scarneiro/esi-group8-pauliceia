@@ -2,7 +2,7 @@
 
 Testes de integração usando Cucumber
 
-* Os testes se encontrão na pasta **features**
+* Os testes estão na pasta **features**
 
 ![Imagem](https://github.com/Wesley-scarneiro/esi-group8-pauliceia/blob/master/cucumber-tests.png?raw=true)
 
