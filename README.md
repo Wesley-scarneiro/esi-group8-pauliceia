@@ -4,6 +4,7 @@ Testes de integração usando Cucumber
 
 * Os testes se encontrão na pasta **features**
 
+![Imagem][cucumber-tests.png]
 
 # pauliceia front-end
 
