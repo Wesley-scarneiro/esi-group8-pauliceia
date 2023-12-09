@@ -4,7 +4,7 @@ Testes de integração usando Cucumber
 
 * Os testes se encontrão na pasta **features**
 
-![Imagem][cucumber-tests.png]
+![Imagem][https://github.com/Wesley-scarneiro/esi-group8-pauliceia/blob/master/cucumber-tests.png?raw=true]
 
 # pauliceia front-end
 
